@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "anujsrian.github.io",
+  "homepage": "anujsrijan.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
